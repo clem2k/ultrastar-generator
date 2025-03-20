@@ -1,0 +1,8 @@
+[
+    {
+        "artist": "Artist",
+        "title": "Title",
+        "language": "en",
+        "file":"../some/folder/file.mp3"
+    }
+]
