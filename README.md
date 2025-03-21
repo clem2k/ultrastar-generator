@@ -51,7 +51,7 @@ If you want ultrastar to recognize file, just unzip into the data folder.
 
 ## Requirements
 
-Make sure you have Python installed along with the required packages. The project depends on:
+Make sure you have Python 3.9 installed along with the required packages. The project depends on:
 
 - mutagen
 - pillow
